@@ -1,0 +1,49 @@
+istanza_reale_100:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z:  66660.52 € | Tempo CPU:  14.94 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  27399.90 € | Tempo CPU:  24.16 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  16117.96 € | Tempo CPU:  24.64 s
+
+istanza_reale_200:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 109494.32 € | Tempo CPU:  56.15 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  43222.65 € | Tempo CPU:  87.35 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  32769.45 € | Tempo CPU:  87.91 s
+
+istanza_reale_300:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 144947.54 € | Tempo CPU: 146.45 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  42772.95 € | Tempo CPU: 185.71 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  46292.52 € | Tempo CPU: 190.73 s
+
+istanza_reale_400:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 163879.04 € | Tempo CPU: 230.97 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  56607.99 € | Tempo CPU: 298.23 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  56607.99 € | Tempo CPU: 294.43 s
+
+istanza_reale_500:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 176191.98 € | Tempo CPU: 310.87 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  60041.91 € | Tempo CPU: 367.58 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  60041.91 € | Tempo CPU: 366.92 s
+
+istanza_reale_600:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 204357.58 € | Tempo CPU: 388.65 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  74845.24 € | Tempo CPU: 454.63 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  74845.24 € | Tempo CPU: 447.59 s
+
+istanza_reale_700:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 210814.37 € | Tempo CPU: 585.70 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  76143.59 € | Tempo CPU: 668.26 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  76143.59 € | Tempo CPU: 680.19 s
+
+istanza_reale_800:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 219800.57 € | Tempo CPU: 681.37 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  78088.96 € | Tempo CPU: 785.90 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  78088.96 € | Tempo CPU: 780.24 s
+
+istanza_reale_900:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 222369.51 € | Tempo CPU: 704.05 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  76120.86 € | Tempo CPU: 743.20 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  76120.86 € | Tempo CPU: 743.15 s
+
+istanza_reale_1000:
+✓ Risoluzione completata: Nominale (Γ=0%)        | Z: 230070.49 € | Tempo CPU: 1877.26 s
+✓ Risoluzione completata: Robusto (Γ=50%)        | Z:  90203.05 € | Tempo CPU: 2510.82 s
+✓ Risoluzione completata: Conservativo (Γ=100%)  | Z:  90203.05 € | Tempo CPU: 2499.41 s
